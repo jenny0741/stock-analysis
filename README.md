@@ -7,6 +7,6 @@ An analysis of stock data from green energy companies was conducted to determine
 ## Results
 
 ### Stock Performance for 2017 
-
+The stock performance in 2017 overall for the green energy companies being observed was very good. Most of the companies saw high percentages of positive returns. 
 
 ### Stock Performance for 2018
