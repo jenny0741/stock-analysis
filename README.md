@@ -14,3 +14,12 @@ The stock performance in 2017 overall for the green energy companies being obser
 ![Stocks_Analysis_2018](Stocks_Analysis_2018.png)
 
 ### Analysis of Execution times between original and refactored scripts
+The refactored script for analysis ran relatively faster than the original. 
+
+![green_stocks_2017](green_stocks_2017.png)
+
+![VBA_Challenge_2017](VBA_Challenge_2017.png)
+
+![green_stocks_2018](green_stocks_2018.png)
+
+![VBA_Challenge_2018](VBA_Challenge_2018.png)
