@@ -30,4 +30,10 @@ By refactoring the original script, it decreased the time it took to run the cod
 
 ## Summary
 
-### 
+### Advantages and Disadvantages of refactoring code
+1. Advantages:
+2. Disadvantages:
+
+### Pros and Cons of refactoring original code
+1. Pros:
+2. Cons:
