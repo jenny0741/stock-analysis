@@ -32,7 +32,7 @@ By refactoring the original script, it decreased the time it took to run the cod
 
 ### Advantages and Disadvantages of refactoring code
 1. Advantages: Makes code more efficient and organized 
-2. Disadvantages: May take a large amount of time, refactoring a specific part of the code may make it difficult to test if the script is lengthy
+2. Disadvantages: May take a large amount of time, refactoring a specific part of the code may make it difficult to test if the script is lengthy/too large
 
 ### Pros and Cons of Original script vs Refactored Script
 1. Original Script Pros:
