@@ -14,7 +14,7 @@ The stock performance in 2017 overall for the green energy companies being obser
 ![Stocks_Analysis_2018](Stocks_Analysis_2018.png)
 
 ### Analysis of Execution times between original and refactored scripts
-By refactoring the original script, it decreased the time it took to run the code.
+By refactoring the original script, it decreased the time it took to run the code. The time for the codes to run for each year was approximately 1/6th of the original time. 
 
 ![green_stocks_2017](green_stocks_2017.png)
 
@@ -23,3 +23,7 @@ By refactoring the original script, it decreased the time it took to run the cod
 ![green_stocks_2018](green_stocks_2018.png)
 
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
+
+## Summary
+
+### 
