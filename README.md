@@ -5,3 +5,8 @@ An analysis of stock data from green energy companies was conducted to determine
 
 
 ## Results
+
+### Stock Performance for 2017
+
+
+### Stock Performance for 2018
