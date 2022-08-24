@@ -14,7 +14,7 @@ The stock performance in 2017 overall for the green energy companies being obser
 ![Stocks_Analysis_2018](Stocks_Analysis_2018.png)
 
 ### Analysis of Execution times between original and refactored scripts
-By refactoring the original script, it decreased the time it took to run the code. The refactored code refers to the values stored inside the array rather than looping through every single value.
+By refactoring the original script, it decreased the time it took to run the code. The refactored code refers to the specific value stored inside the array rather than looping through every single value, which helps in decreasing the time it takes to run the code.
 
 ![green_stocks_2017](green_stocks_2017.png)
 
@@ -24,7 +24,9 @@ By refactoring the original script, it decreased the time it took to run the cod
 
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
+![Original_Script](Original_Script.png)
 
+![Refactored_Script](Refactored_Script.png)
 
 ## Summary
 
